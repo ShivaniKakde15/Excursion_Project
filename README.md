@@ -11,7 +11,7 @@
 
 ## Technologies Used:
 
-###### * HTML
+* HTML
 ###### * CSS
 ###### * GitHub
 ###### * Command Line
